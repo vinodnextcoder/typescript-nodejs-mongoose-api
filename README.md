@@ -1,4 +1,4 @@
-# graphql-mongodb-typescript-contactList
+# graphql-mongodb-typescript
 
 # install 
 -- npm install
